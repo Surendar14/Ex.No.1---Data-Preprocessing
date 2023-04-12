@@ -98,10 +98,6 @@ print("Size of X_test: ",len(X_test))
 
 ![output](3.png)
 
-![output](4.png)
-
-![output](5.png)
-
 ### Normalised Dataset
 ![output](6.png)
 
